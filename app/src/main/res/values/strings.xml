@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squatch</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>10.99€</item>
+        <item>0.99€</item>
+        <item>89.99€</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Podre</item>
+        <item>é da apple</item>
+        <item>a vida é uma mentira, viva ao Império Romanus</item>
+    </string-array>
+
+</resources>
